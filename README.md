@@ -1,4 +1,4 @@
-# TTF Nerd Fonts\n
+# TTF Nerd Fonts
 
 ## Here are just fonts patched with `nerd-fonts`
 
