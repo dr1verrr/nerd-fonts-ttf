@@ -2,4 +2,6 @@
 
 ## Here are just fonts patched with `nerd-fonts`
 
-[Hack.md](./Hack/README.md#section)
+- [Hack](./Hack/README.md#section)
+
+* [Iosevka + ligatures](./Iosevka)
