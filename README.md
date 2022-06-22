@@ -2,6 +2,5 @@
 
 ## Here are just fonts patched with `nerd-fonts`
 
-1. [`Hack`](./Hack/README.md#section)
-
-2. [`Iosevka` + ligatures](./Iosevka)
+1. [Hack]("./Hack/README.md")
+2. [Iosevka]("./Iosevka)
