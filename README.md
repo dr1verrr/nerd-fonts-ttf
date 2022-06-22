@@ -1,7 +1,7 @@
-# TTF Nerd Fonts
+# TTF Nerd Fonts\n
 
 ## Here are just fonts patched with `nerd-fonts`
 
-- [Hack](./Hack/README.md#section)
+1. [`Hack`](./Hack/README.md#section)
 
-* [Iosevka + ligatures](./Iosevka)
+2. [`Iosevka` + ligatures](./Iosevka)
